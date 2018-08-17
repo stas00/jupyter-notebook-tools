@@ -1,3 +1,3 @@
 # Jupyter Notebook Tools
 
-Helper tools for working with Jupyter notebooks
+Helper tools for working with Jupyter notebooks.
