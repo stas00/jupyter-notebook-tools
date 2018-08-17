@@ -1,2 +1,3 @@
-# jupyter-notebook-tools
-jupyter-notebook-tools
+# Jupyter Notebook Tools
+
+Helper tools for working with Jupyter notebooks
